@@ -7,4 +7,4 @@
   - Formal or semiformal is generally preferred. Casual (like shorts or yoga pants) is not preferred. No need to wear robes. Only person with specific dresscode is the head of the deparment (Tom Ryen). He will be wearing an offical robe.
   
 - How to get to the defense venue from the hotel?
-  - Defense usually takes place at the Kjøkv Egelands Hus (usually room E-164 for defense at IDE). From Ydalir hotel it is a about a 10 minutes walk to the venue. Here is the map. 
+  - Defense usually takes place at the Kjøkv Egelands Hus (usually room E-164 for defense at IDE). From Ydalir hotel it is a about a 10 minutes walk to the venue. Here is the link to the [map](http://bit.ly/2QjBImy) . 
