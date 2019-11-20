@@ -11,7 +11,7 @@
   - If you are coming from another location in Stavanger, it is probably best to take a taxi or a bus to the UiS West. The bus schedule can be checked [here](https://www.kolumbus.no). The closes bus stop to the venue would be "UiS ved Kjølv Egelands hus". Bus numbers 6, 7 and X60 come here from the Stavanger city center. There are several taxi options for example [Stavanger Taxi](https://www.stavanger-taxi.no).
 
 - When should the opponents arrive at the venue?
-  - Typically the trial lecture starts at 10 am on the day of exam
+  - Typically the trial lecture starts at 10 am on the day of defense
   - It is better to arrive about 15 minutes before the trial lecture, and meet the administrator of the defense.
 
 - How does the trial lecture work?
