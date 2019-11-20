@@ -24,7 +24,7 @@
   - Nina Ingrid Horve Stava <nina.h.stava@uis.no> usually specifies where to have lunch
 
 - Is there some standard schedule for the defense day with the trial lecture, the presentation of the thesis, etc.
-  - Trial lecture is at 10 am. Followed by lunch and thesis presentation is at 12.15 pm. Each are 45 minutes. After the defense the committee quickly decides if the candidate passes the phd oral examination or not (no grade give). After that there is usually an informal reception. Sometimes there is also usually a dinner invited by the candidate in the evening, but that is up to the candidate. 
+  - Trial lecture is at 10 am (45 minutes). Followed by lunch and thesis presentation is at 12.15 pm (45 minutes).  After the defense presentation there is Q&A (unlimited but in practice 1 hour max).  After the defense the committee quickly decides if the candidate passes the phd oral examination or not (no grade give). After that there is usually an informal reception. Sometimes there is also usually a dinner invited by the candidate in the evening, but that is up to the candidate. 
   
 - What do opponents have to prepare (for instance, how "formal" will the defending part be handled after candidate's presentation of his/her thesis)? 
   - It is probably better to write down a list of all your questions and clarifications to the candidate. It is not very formal but there are formal elements. Like you have to walk up to the stage to ask questions. Also each of you will be given a chance to ask questions. Usually about 20-30 minutes will be given for each opponent. Generally the main opponent will be given chance first then the second opponent. Internal committee member who is an administrator generally does not ask any questions.
