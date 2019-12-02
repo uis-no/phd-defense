@@ -10,6 +10,9 @@
   - Defense usually takes place at the Kjøkv Egelands Hus (usually room E-164 for defense at IDE). From Ydalir hotel it is a about a 10 minutes walk to the venue. Here is the link to the [map](http://bit.ly/2QjBImy) . 
   - If you are coming from another location in Stavanger, it is probably best to take a taxi or a bus to the UiS West. The bus schedule can be checked [here](https://www.kolumbus.no). The closes bus stop to the venue would be "UiS ved Kjølv Egelands hus". Bus numbers 6, 7 and X60 come here from the Stavanger city center. There are several taxi options for example [Stavanger Taxi](https://www.stavanger-taxi.no).
 
+- How do I get from the airport to the Ydalir hotel or the university?
+  - The easiest is to take a taxi
+  - It is also possible to take a bus. If you are arriving in Stavanger before 19.00 then you can the airport bus route which goes via Professor Olav Hanssens stop [here is the bus route](https://www.kolumbus.no/reiseplanlegger/?From=Stavanger%20lufthavn%20(Sola)&To=Professor%20Olav%20Hanssens%20vei%2010%20(Stavanger)&TravelDateTime.time=14:00&TravelDateTime.date=03.12.2019&Direction=1)
 - When should the opponents arrive at the venue?
   - Typically the trial lecture starts at 10 am on the day of defense
   - It is better to arrive about 15 minutes before the trial lecture, and meet the administrator of the defense.
